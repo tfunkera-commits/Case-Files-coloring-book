@@ -1,22 +1,22 @@
 # Case Files Coloring Book — 30-Case Production Lineup
 
-Status: Working lineup
+Status: Production underway — 10 of 30 interior coloring pages approved/completed (33.3%) as of 2026-09-28
 Source rule: Every case selected must already be published on T Funk Era.
-Art direction: Pending coloring-book reference examples from Matt.
+Art direction: LOCKED — approved revised Mothman sample is the master visual anchor; maintain consistent comic-book realism, restrained detail, open coloring space, simplified secondary backgrounds, and compact Case File footer.
 Selection priority: Strong central characters, cryptids, UFO craft, creatures, artifacts, and visually distinctive scenes suitable for black-line coloring pages.
 
 ## Cryptids / Creatures
 
-1. CF-0015 — Mothman — Winged humanoid / Point Pleasant
-2. CF-0045 — Patterson–Gimlin Film — Bigfoot at Bluff Creek
-3. CF-0057 — Skunk Ape — Creature in Florida swamp
-4. CF-0007 — Yeti of the Himalayas — Yeti in snowy mountains
-5. CF-0008 — Mapinguari of the Amazon — Creature in dense jungle
-6. CF-0011 — Rougarou — Werewolf-like creature in Louisiana bayou
-7. CF-0036 — Ahool — Giant bat-like creature in Java jungle
-8. CF-0029 — Thunderbird — Giant bird over wilderness
-9. CF-0030 — Bunyip — Creature emerging from Australian billabong
-10. CF-0035 — Orang Pendek — Upright ape-like creature in Sumatran forest
+1. CF-0015 — Mothman — Winged humanoid / Point Pleasant — **COMPLETE / APPROVED**
+2. CF-0045 — Patterson–Gimlin Film — Bigfoot at Bluff Creek — **COMPLETE / APPROVED**
+3. CF-0057 — Skunk Ape — Creature in Florida swamp — **COMPLETE / APPROVED**
+4. CF-0007 — Yeti of the Himalayas — Yeti in snowy mountains — **COMPLETE / APPROVED**
+5. CF-0008 — Mapinguari of the Amazon — Creature in dense jungle — **COMPLETE / APPROVED**
+6. CF-0011 — Rougarou — Werewolf-like creature in Louisiana bayou — **COMPLETE / APPROVED**
+7. CF-0036 — Ahool — Giant bat-like creature in Java jungle — **COMPLETE / APPROVED**
+8. CF-0029 — Thunderbird — Giant bird over wilderness — **COMPLETE / APPROVED**
+9. CF-0030 — Bunyip — Creature emerging from Australian billabong — **COMPLETE / APPROVED**
+10. CF-0035 — Orang Pendek — Upright ape-like creature in Sumatran forest — **COMPLETE / APPROVED**
 11. CF-0041 — Giant of Kandahar — Giant humanoid in Afghan mountains
 12. CF-0046 — Beast of Gévaudan — Large wolf-like beast in historical France
 13. CF-0051 — Megalodon — Giant shark beneath a small boat
@@ -54,10 +54,19 @@ Selection priority: Strong central characters, cryptids, UFO craft, creatures, a
 - Case-file numbering and short 2–3 sentence descriptions are planned for the finished book.
 - The lineup remains editable until sample pages are approved.
 
+## Current Production Progress — 2026-09-28
+
+- **10 / 30 pages complete (33.3%)** — one-third of the interior lineup.
+- Completed/approved: CF-0007 Yeti, CF-0008 Mapinguari, CF-0011 Rougarou, CF-0015 Mothman, CF-0029 Thunderbird, CF-0030 Bunyip, CF-0035 Orang Pendek, CF-0036 Ahool, CF-0045 Patterson–Gimlin Film, CF-0057 Skunk Ape.
+- Local production filenames have been standardized to begin with the actual Case File number: `CF-#### Subject.png`.
+- Mapinguari required revision to avoid reading as another Bigfoot; this reinforces that **art style stays consistent while each cryptid's case-specific physical identity must remain distinct**.
+- Ahool was revised to fly left to vary composition, then simplified by roughly 25% after detail began drifting upward. Continue using the anti-drift rules in `PROJECT-VISION-AND-ART-DIRECTION.md`.
+- Do not let backgrounds, foliage, fur, feathers, water, mountains, or technical elements become progressively busier as production continues.
+- Next production page: **#11 — CF-0041 Giant of Kandahar**.
+
 ## Next Milestone
 
-1. Collect 2–5 coloring-book/page references.
-2. Define the visual style guide: line weight, realism, detail density, backgrounds, borders, and case-file information treatment.
-3. Select three cases representing different visual challenges.
-4. Produce three sample pages.
-5. Review and lock the production template before generating the remaining pages.
+1. Resume with page 11, CF-0041 Giant of Kandahar.
+2. Continue comparing every generation against the approved Mothman baseline and the completed reference set.
+3. Reach 15 / 30 pages (50%) while maintaining the locked production style.
+4. Perform a midpoint consistency review before proceeding through the final 15 pages.

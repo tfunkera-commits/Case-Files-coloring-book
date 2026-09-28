@@ -165,3 +165,67 @@ These are working sample candidates and can be changed before production.
 The page should be interesting to color even if the reader has never heard of the case.
 
 After coloring it, the reader should want to know what the case was about.
+
+
+## Locked Production Style — Approved Mothman Sample
+
+The revised Mothman sample (CF-0015) is the approved visual baseline for the entire book. Future pages must match this level of simplicity, line weight, page structure, and colorability closely enough that all 30 pages feel drawn for the same book.
+
+### Detail Density
+
+- Target approximately 25% less detail than the first Mothman draft.
+- Favor clean, deliberate contour lines over texture lines.
+- Use interior detail only when it helps define anatomy, form, clothing, machinery, terrain, or a recognizable feature.
+- Keep large white/open regions available for coloring.
+- Wings, fur, foliage, water, stone, clouds, vehicles, buildings, and similar surfaces should be suggested with a limited number of lines rather than fully textured.
+- Backgrounds should establish the real-world setting without competing with the main subject.
+- Avoid dense hatching, repeated micro-lines, excessive cracks, tiny foliage, or other visual noise.
+
+### Line Language
+
+- Pure black line art on pure white; no gray wash, shading, gradients, sepia, or paper texture.
+- Strong, smooth outer contour on the main subject.
+- Moderately thinner interior/detail lines.
+- Simple, readable shapes suitable for hand coloring.
+- Comic-book realism: believable and dramatic, but not photorealistic and not childish.
+- Keep line density visually consistent from page to page.
+
+### Composition Baseline
+
+- Portrait page with a thin rectangular border and generous print-safe margins.
+- Illustration occupies roughly the upper 85–90% of the usable page.
+- One dominant subject with a dynamic, immediately readable silhouette.
+- Supporting environment remains secondary and simplified.
+- Bottom information strip should be shallow and span the page width rather than consuming a large block of the illustration.
+- Do NOT place the website promotion / “THE MYSTERY DOESN'T END ON THE PAGE” panel on individual coloring pages. That call-to-action belongs on the book's back cover/back matter.
+
+### Information Strip Baseline
+
+Use the approved Mothman layout as the template:
+
+CASE FILE CF-#### | SUBJECT — LOCATION
+
+Follow with a concise 2–3 sentence description in smaller readable type. The caption should identify what the reader is coloring and create curiosity without becoming a large text feature.
+
+Case File numbers must use the actual T Funk Era Case File number from the production lineup/site. Do not renumber pages sequentially for the coloring book.
+
+### Anti-Drift Checklist
+
+Before approving each new page, compare it mentally against the approved Mothman sample and verify:
+
+1. Similar overall line weight.
+2. Similar amount of open white coloring space.
+3. Similar detail density — do not gradually become more intricate.
+4. Similar comic-book realism.
+5. Main subject dominates the composition.
+6. Background communicates setting but stays secondary.
+7. No grayscale/shading/crosshatching creep.
+8. Bottom strip remains compact and consistent.
+9. Correct CF number, title, location, and concise description.
+10. Page remains easy and enjoyable to color when printed.
+
+If a subject naturally requires more technical detail (for example a UFO or aircraft), simplify secondary components rather than increasing the overall page density. If a subject is visually simple, add setting/context rather than decorative patterns. This keeps the perceived complexity consistent across the book.
+
+### Generation/Revision Rule
+
+Treat the approved revised Mothman page as the visual anchor for every future generation. New pages should change the subject, setting, pose, and case-specific storytelling while preserving the same production grammar: bold clean contours, restrained interior lines, simplified environment, generous white space, portrait framing, and compact case-file strip.

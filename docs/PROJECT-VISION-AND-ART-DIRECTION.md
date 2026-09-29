@@ -226,6 +226,30 @@ Before approving each new page, compare it mentally against the approved Mothman
 
 If a subject naturally requires more technical detail (for example a UFO or aircraft), simplify secondary components rather than increasing the overall page density. If a subject is visually simple, add setting/context rather than decorative patterns. This keeps the perceived complexity consistent across the book.
 
+### Composition Variety — Locked Rule
+
+Consistency means the same visual language, not the same pose repeated with different creature details.
+
+For every new page:
+
+- Review the recent approved pages before generation and deliberately avoid repeating their dominant pose/composition.
+- Vary subject facing direction: straight toward the reader, left profile, right profile, and three-quarter views.
+- Vary action and body language when case-appropriate: stalking, charging, crouching, emerging, flying, climbing, looming, swimming, observing, or moving through the environment.
+- Vary camera viewpoint and framing when useful: eye level, low angle, slightly elevated, close dominant figure, or a somewhat wider environmental composition.
+- Vary where the focal subject sits within the illustration rather than centering every figure identically.
+- Preserve the locked Mothman aesthetic while changing the comic-book “moment.” The pages should feel as though the same artist illustrated 30 different scenes, not as though one template was reused 30 times.
+- Composition variety must never be achieved by adding extra detail. Maintain the same restrained line density, pure black-and-white treatment, open coloring areas, simplified background, border, and compact Case File strip.
+
+### Per-Page Preflight
+
+Immediately before each new image prompt:
+
+1. Re-check this repository art-direction document and current production lineup.
+2. Compare the intended composition with previously approved pages available in the current project/conversation.
+3. Choose a pose, facing direction, camera angle, and focal placement that makes the new page visually distinct.
+4. Reconfirm pure black line art on pure white and the approved Mothman-level detail density.
+5. Then generate the page.
+
 ### Generation/Revision Rule
 
 Treat the approved revised Mothman page as the visual anchor for every future generation. New pages should change the subject, setting, pose, and case-specific storytelling while preserving the same production grammar: bold clean contours, restrained interior lines, simplified environment, generous white space, portrait framing, and compact case-file strip.

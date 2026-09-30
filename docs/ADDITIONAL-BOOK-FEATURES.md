@@ -154,6 +154,142 @@ The URL and QR destination must be tested before publication.
 
 This feature should help move readers naturally from the physical coloring book to the complete online Case Files archive.
 
+# Expanded Book Concept — Coloring + Activities
+
+The project is no longer envisioned as only a 30-page coloring book. The working target is now approximately **100–105 interior pages**, while preserving the original 30 Case File coloring pages as the core feature.
+
+The extra pages should add genuine value and remain tightly tied to the Case Files theme rather than feeling like generic filler.
+
+## Single-Sided Coloring Rule
+
+All 30 primary coloring pages should remain **single-sided**.
+
+Each coloring illustration should have a blank reverse side so that markers, gel pens, or other wet media have less risk of damaging another activity or illustration.
+
+The reverse page may be completely blank or may use only a very small footer such as:
+
+**T FUNK ERA CASE FILES — This page intentionally left blank to protect your artwork.**
+
+Do not place a maze, word search, puzzle, or other meaningful activity directly on the reverse of a coloring page.
+
+Because 30 coloring pages plus 30 blank backs consume about 60 interior pages, the remaining roughly 40–45 pages can be used for front matter, themed activities, answer keys, and back matter.
+
+## Activity Direction
+
+Activities should feel like part of an investigation dossier and should use the same cases, locations, terms, witnesses, creatures, UFOs, and mysteries already featured in the book.
+
+Approved activity themes include:
+
+### Word Searches
+
+Examples:
+
+**WORD SEARCH — UFO CASES**  
+Use terms such as Rendlesham, Roswell, Emilcin, Cash-Landrum, Nimitz, radar, witness, lights, craft, encounter, and related Case File terms.
+
+**WORD SEARCH — CRYPTIDS**  
+Use names and related terms from creature cases in the book.
+
+Word searches should be readable, not overly dense, and should include a clear word list.
+
+### Mazes
+
+Examples:
+
+**MAZE — RENDLESHAM FOREST**  
+Guide the investigator through the forest to the strange lights.
+
+Other maze concepts may include:
+
+- Guide a witness back to a farmhouse or vehicle.
+- Find the crash site.
+- Reach the observation point.
+- Escape a creature encounter.
+- Navigate through a forest, desert, mountain road, or other case-specific location.
+
+Mazes should visually reference the Case File setting without becoming too complex to solve.
+
+### Codebreakers
+
+Example:
+
+**CODEBREAKER — CLASSIFIED TRANSMISSION**  
+Decode a message that reveals the name of one of the Case Files.
+
+Other codebreaker solutions could reveal:
+
+- A Case File location.
+- A creature or UFO name.
+- A short clue.
+- A case-related phrase.
+
+Simple substitution, number-to-letter, symbol, or classified-message style puzzles are preferred over difficult cryptography.
+
+### Trivia / Case Knowledge
+
+Use multiple-choice, true/false, or short-answer questions based on facts already presented in the book or on the T Funk Era Case Files site.
+
+The purpose should be to make readers curious and reinforce what they learned, not to create a difficult academic quiz.
+
+### Match the Case
+
+Possible formats:
+
+- Match the mystery to its location.
+- Match the creature/UFO to its Case File number.
+- Match the witness description to the correct case.
+- Match a silhouette to the correct subject.
+
+Example:
+
+Mothman -> Point Pleasant, West Virginia  
+Loch Ness Monster -> Loch Ness, Scotland  
+Mongolian Death Worm -> Gobi Desert
+
+### Identification / Silhouette Activities
+
+Use simplified black silhouettes or outlines based on subjects already in the book.
+
+Readers identify or match the subject to its correct Case File.
+
+### Investigator / Creative Activities
+
+Possible pages include:
+
+- Write your own witness report.
+- Create your own Case File.
+- Draw your own UFO.
+- Design your own cryptid.
+- Record evidence and theories.
+- Rank or describe the evidence in a fictional or open-ended exercise.
+
+These should preserve the Case Files theme and avoid feeling like unrelated children's worksheets.
+
+## Working Page Budget
+
+The current working target is approximately **100–105 interior pages**.
+
+A possible structure:
+
+| Section | Approx. Pages |
+| --- | ---: |
+| Title / copyright / belongs-to | 3–4 |
+| Welcome + How to Use | 2 |
+| Case File checklist / index | 2 |
+| 30 Case File coloring pages | 30 |
+| Blank reverse pages for coloring pages | 30 |
+| Word searches | 6 |
+| Mazes | 5 |
+| Codebreakers | 4 |
+| Trivia / matching / identification | 6 |
+| Creative / investigator activities | 4 |
+| Test Your Colors + My Favorite Case | 2 |
+| Answer key | 5 |
+| Certificate + Website / QR finale | 2 |
+| **Approximate Total** | **101–102** |
+
+This is a working allocation rather than locked pagination. It should be adjusted during layout to preserve good recto/verso placement and Amazon KDP requirements.
+
 ## Working Interior Flow
 
 A possible book flow to test during layout:
@@ -163,14 +299,24 @@ A possible book flow to test during layout:
 3. How to Use This Book
 4. Test Your Colors
 5. Case File Checklist / Index
-6. 30 Case File coloring pages
-7. Investigator Notes
-8. My Favorite Case
-9. Certificate of Completion
-10. Website / QR finale
+6. 30 Case File coloring pages, each with a blank reverse page
+7. Word searches
+8. Mazes
+9. Codebreakers
+10. Trivia / matching / identification activities
+11. Investigator / creative activities
+12. Investigator Notes
+13. My Favorite Case
+14. Answer key
+15. Certificate of Completion
+16. Website / QR finale
 
 This order is a working structure, not a locked pagination requirement. It may be adjusted to satisfy Amazon KDP page-count, printing, bleed, verso/recto, and interior-layout requirements.
 
-## Production Note
+## Production Principle
 
-These features should add personality and interactivity without overwhelming the 30 primary coloring pages. The Case File illustrations remain the main product. Front and back matter should support the central experience, strengthen T Funk Era branding, and create a clear connection to the website.
+The book should feel like a **Case Files Coloring & Activity Book**, not a generic puzzle book with unrelated filler.
+
+The 30 coloring pages remain the primary identity of the product. Activities should increase perceived value, reinforce the mysteries, encourage interaction, and give readers more reasons to spend time with the book.
+
+Whenever possible, activity content should be derived from the same 30 Case Files already selected for production so that additional research and scope remain controlled.

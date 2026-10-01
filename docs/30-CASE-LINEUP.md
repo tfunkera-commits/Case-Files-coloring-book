@@ -1,6 +1,6 @@
 # Case Files Coloring Book — 30-Case Production Lineup
 
-Status: Production underway — 21 of 30 interior coloring pages approved/completed (70%) as of 2026-09-29
+Status: Coloring-page production complete — 30 of 30 interior coloring pages approved/completed (100%) as of 2026-10-01
 Source rule: Every case selected must already be published on T Funk Era.
 Art direction: LOCKED — approved revised Mothman sample is the master visual anchor; maintain consistent comic-book realism, restrained detail, open coloring space, simplified secondary backgrounds, and compact Case File footer.
 Selection priority: Strong central characters, cryptids, UFO craft, creatures, artifacts, and visually distinctive scenes suitable for black-line coloring pages.
@@ -31,18 +31,18 @@ Selection priority: Strong central characters, cryptids, UFO craft, creatures, a
 19. CF-0021 — Rendlesham Forest Incident — Mysterious craft among pine trees — **COMPLETE / APPROVED**
 20. CF-0053 — Cash–Landrum Incident — Diamond-shaped UFO and helicopters — **COMPLETE / APPROVED**
 21. CF-0060 — Betty & Barney Hill Abduction — UFO encounter over mountain road — **COMPLETE / APPROVED**
-22. CF-0003 — Kecksburg Incident — Acorn-shaped object in Pennsylvania woods
-23. CF-0012 — Triangles Over Phoenix — Large triangular craft over Phoenix
-24. CF-0014 — Black Knight Satellite — Angular object orbiting Earth
-25. CF-0040 — Orange Mother Orb Incident — Large orb with smaller objects
-26. CF-0064 — Levelland UFO Incident — Glowing UFO over stranded 1950s car
-27. CF-0075 — RB-47 Encounter — Reconnaissance aircraft and UFO
-28. CF-0096 — TR-3B Black Manta — Detailed triangular craft
+22. CF-0003 — Kecksburg Incident — Acorn-shaped object in Pennsylvania woods — **COMPLETE / APPROVED**
+23. CF-0012 — Triangles Over Phoenix — Large triangular craft over Phoenix — **COMPLETE / APPROVED**
+24. CF-0014 — Black Knight Satellite — Angular object orbiting Earth — **COMPLETE / APPROVED**
+25. CF-0040 — Orange Mother Orb Incident — Large orb with smaller objects — **COMPLETE / APPROVED**
+26. CF-0064 — Levelland UFO Incident — Glowing UFO over stranded 1950s car — **COMPLETE / APPROVED**
+27. CF-0075 — RB-47 Encounter — Reconnaissance aircraft and UFO — **COMPLETE / APPROVED**
+28. CF-0096 — TR-3B Black Manta — Detailed triangular craft — **COMPLETE / APPROVED**
 
 ## Strange History / Mystery
 
-29. CF-0050 — Utsuro-bune — Mysterious woman and unusual vessel in 1803 Japan
-30. CF-0048 — Andrée Balloon Expedition — Explorers and balloon over Arctic ice
+29. CF-0100 — The Lost Colony of Roanoke — Abandoned settlement with CROATOAN carved into a tree — **COMPLETE / APPROVED; PUBLISHED 2026-10-01**
+30. CF-0084 — The Curse of King Tut — Tutankhamun's tomb, sarcophagus, and Egyptian artifacts — **COMPLETE / APPROVED**
 
 ## Production Notes
 
@@ -54,20 +54,19 @@ Selection priority: Strong central characters, cryptids, UFO craft, creatures, a
 - Case-file numbering and short 2–3 sentence descriptions are planned for the finished book.
 - The lineup remains editable until sample pages are approved.
 
-## Current Production Progress — 2026-09-29
+## Current Production Progress — 2026-10-01
 
-- **21 / 30 pages complete (70%)**.
-- Today's production added 11 approved pages: CF-0041 Giant of Kandahar, CF-0046 Beast of Gévaudan, CF-0051 Megalodon, CF-0054 South Atlantic Deep-Sea Creature / Trunko, CF-0065 Loch Ness Monster, CF-0090 Mongolian Death Worm, CF-0025 Kelly–Hopkinsville Encounter, CF-0026 Emilcin UFO Encounter, CF-0021 Rendlesham Forest Incident, CF-0053 Cash–Landrum Incident, and CF-0060 Betty & Barney Hill Abduction.
-- Several generations confirmed that the safest baseline is roughly **25% less interior/background detail** than the generator's natural first pass. Apply this reduction proactively before generation rather than waiting for revision.
-- Continue pure black line art on pure white: no gray fills, grayscale, color, sepia, or tonal wash.
-- Maintain composition variety. Recent successful examples include left-facing Beast of Gévaudan howling before a moon, upward-surging Megalodon beneath a boat, Nessie rising vertically from the loch, Death Worm erupting diagonally from sand, farmhouse/fence encounter staging, forest military-observer staging, road/UFO/helicopter staging, and the Hill mountain-road encounter.
-- Avoid overusing large moons, centered subjects, identical crouching figures, or the same UFO viewpoint in upcoming pages.
-- **9 pages remain.**
+- **30 / 30 coloring pages complete (100%)**.
+- Final production batch completed CF-0003 Kecksburg, CF-0012 Triangles Over Phoenix, CF-0014 Black Knight Satellite, CF-0040 Orange Mother Orb Incident, CF-0064 Levelland, CF-0075 RB-47, CF-0096 TR-3B Black Manta, CF-0100 Lost Colony of Roanoke, and CF-0084 Curse of King Tut.
+- Roanoke was published on T Funk Era as **CF-0100** on 2026-10-01.
+- King Tut uses its existing published number **CF-0084**.
+- The local Pages folder was visually confirmed to contain **30 items**.
+- Keep the established pure black-line / pure-white, reduced-detail production style for any revisions.
 
 ## Next Milestone
 
-1. Resume with page 22 of 30.
-2. Re-read the art-direction document before each image prompt and compare against recent approved compositions.
-3. Apply the 25%-less-detail rule from the start of each generation.
-4. Finish the remaining 9 pages while preserving the locked Mothman visual language and composition variety.
-5. After 30/30, perform a full-book consistency review before cover/interior assembly.
+1. Perform a **30-page QA/consistency pass**: CF numbers, titles, caption text, black/white purity, detail density, margins, and obvious visual drift.
+2. Lock the 30 coloring-page files after corrections.
+3. Design the activity-page system (word searches, mazes, codebreakers, and other approved activities).
+4. Build the interior toward the approximately **100-page KDP target**, preserving single-sided coloring pages.
+5. Assemble front matter/back matter, website CTA/QR treatment, cover, and final KDP-ready interior.

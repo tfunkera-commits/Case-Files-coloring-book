@@ -110,3 +110,49 @@ Pages reviewed:
 - **Art correction required:** 1 (CF-0021 Rendlesham)
 - **Caption/footer verification:** required for all 9
 - Do not remake pages merely to chase minor stylistic differences; preserve approved art unless a concrete QA problem is identified.
+
+
+## QA Review — Batch 2 of 30 — 2026-10-01
+
+Pages reviewed:
+- CF-0045 — Patterson–Gimlin Film
+- CF-0025 — Kelly–Hopkinsville Encounter
+- CF-0026 — Emilcin UFO Encounter
+- CF-0029 — Thunderbird
+- CF-0030 — Bunyip
+- CF-0035 — Orang Pendek
+- CF-0036 — Ahool
+- CF-0040 — Orange Mother Orb Incident
+- CF-0041 — Giant of Kandahar
+
+### Visual QA Result
+- **8 of 9 visually pass without a required art correction.**
+- **CF-0040 Orange Mother Orb Incident requires correction/verification before lock:** the illustration contains faint gray/translucent-looking highlights around the lower openings of the orbs rather than strictly pure black line art on white. Remove any gray values and retain only clean black outlines/open white regions.
+- CF-0045 Patterson–Gimlin Film: strong, clean coloring-page composition and appropriate open regions; visual pass.
+- CF-0025 Kelly–Hopkinsville: strong focal creature and simple environment; visual pass. The depicted creature is a stylized interpretation, so factual caption/visual correspondence should be checked against the published case.
+- CF-0026 Emilcin: clean composition with substantial open space; visual pass. Any faint beam/light lines should remain outline-only and must not become gray fill in print.
+- CF-0029 Thunderbird: more environmental detail than some pages, especially distant trees, but the dominant bird has large open regions and remains colorable; visual pass.
+- CF-0030 Bunyip: comparatively dense water/vegetation line work, but the subject remains clear and colorable; visual pass. Do not regenerate solely for this difference.
+- CF-0035 Orang Pendek: foliage is somewhat dense but appropriately secondary to the figure; visual pass.
+- CF-0036 Ahool: good open wing areas and distinct composition; visual pass.
+- CF-0041 Giant of Kandahar: strong open regions and clear silhouette; visual pass.
+
+### Footer / Naming QA
+- Batch continues the `CASE FILE #00xx` footer convention used on most pages; final interior assembly should standardize this with the master footer convention.
+- Verify spelling/canonical naming against the published Case Files before lock, especially `Emilcin` and the exact official titles used on T Funk Era.
+- Case numbers shown in this batch are legible and internally consistent with the filenames supplied for review.
+
+### Caption / Factual QA
+- **All 9 captions still require comparison with their corresponding published T Funk Era Case File before final approval.**
+- Do not treat generated caption wording as authoritative simply because the visual page passes.
+- Give particular scrutiny to precise dates, locations, witness descriptions, physical descriptions, cultural claims, and statements that imply investigation or official findings.
+- **CF-0040 Orange Mother Orb Incident is a high-priority factual check:** its caption specifically states a 2010 Stephenville, Texas event. This detail was generated during art production and was not established by the original page brief, so it must be verified against the published T Funk Era case before printing.
+- CF-0041 Giant of Kandahar also needs careful wording review because the caption presents reported physical traits and witness groups as factual report details; retain attribution/uncertainty consistent with the published case.
+- CF-0029 Thunderbird and CF-0030 Bunyip should be checked for respectful and accurate wording regarding Indigenous/Aboriginal traditions and whether the published Case Files use the same framing.
+
+### Batch 2 Status
+- **Visual pass:** 8
+- **Art correction/verification required:** 1 (CF-0040 Orange Mother Orb Incident — eliminate any gray/translucent values)
+- **High-priority caption verification:** CF-0040
+- **Caption/footer verification:** required for all 9
+- Preserve otherwise-approved illustrations; do not regenerate pages merely for minor differences in environmental detail.

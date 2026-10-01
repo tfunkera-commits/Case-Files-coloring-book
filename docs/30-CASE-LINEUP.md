@@ -70,3 +70,43 @@ Selection priority: Strong central characters, cryptids, UFO craft, creatures, a
 3. Design the activity-page system (word searches, mazes, codebreakers, and other approved activities).
 4. Build the interior toward the approximately **100-page KDP target**, preserving single-sided coloring pages.
 5. Assemble front matter/back matter, website CTA/QR treatment, cover, and final KDP-ready interior.
+
+
+## QA Review — Batch 1 of 30 — 2026-10-01
+
+Pages reviewed:
+- CF-0057 — Skunk Ape
+- CF-0003 — Kecksburg Incident
+- CF-0007 — Yeti of the Himalayas
+- CF-0008 — Mapinguari of the Amazon
+- CF-0011 — Rougarou
+- CF-0012 — Triangles Over Phoenix
+- CF-0014 — Black Knight Satellite
+- CF-0015 — Mothman
+- CF-0021 — Rendlesham Forest Incident
+
+### Visual QA Result
+- **8 of 9 visually pass.**
+- **CF-0021 Rendlesham Forest Incident requires an art correction:** remove gray shading/fill from the underside of the craft and remove/transcribe the translucent gray light beams into clean black outlines/open white space. Do not redesign the composition.
+- Mapinguari is somewhat more detailed than Yeti but remains colorable and its anatomy is distinct.
+- Skunk Ape has relatively substantial fur/water/vegetation detail but retains sufficiently large open coloring areas.
+- Black Knight carries extra technical line work appropriate to the subject without becoming excessively dense.
+- Kecksburg has a good environment/open-space balance.
+
+### Footer / Layout QA
+- Footer formatting is not fully consistent across the batch.
+- Mothman uses `CASE FILE CF-0015`, while most pages use the `CASE FILE #0015` convention.
+- Mothman includes location in the title line while most others do not.
+- Footer heights and text sizing vary slightly.
+- **Plan:** standardize footer treatment during final interior assembly rather than regenerate otherwise-good illustrations.
+
+### Caption / Factual QA
+- Do not consider captions finally approved based on visual review alone.
+- All captions must be checked against the corresponding published T Funk Era Case File before the interior is locked.
+- Give special attention to pages containing specific dates, witness counts, official-response claims, locations, or other precise historical assertions (including Phoenix, Black Knight, Kecksburg, and Rendlesham).
+
+### Batch 1 Status
+- **Visual pass:** 8
+- **Art correction required:** 1 (CF-0021 Rendlesham)
+- **Caption/footer verification:** required for all 9
+- Do not remake pages merely to chase minor stylistic differences; preserve approved art unless a concrete QA problem is identified.

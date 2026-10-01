@@ -156,3 +156,73 @@ Pages reviewed:
 - **High-priority caption verification:** CF-0040
 - **Caption/footer verification:** required for all 9
 - Preserve otherwise-approved illustrations; do not regenerate pages merely for minor differences in environmental detail.
+
+
+## QA Review — Batch 3 of 30 — 2026-10-01
+
+Pages reviewed:
+- CF-0075 — RB-47 Encounter
+- CF-0084 — The Curse of King Tut
+- CF-0090 — Mongolian Death Worm
+- CF-0096 — TR-3B Black Manta
+- CF-0100/0105 — The Lost Colony of Roanoke
+- CF-0045 — Patterson–Gimlin Film
+- CF-0046 — Beast of Gévaudan
+- CF-0051 — Megalodon
+- CF-0053 — Cash–Landrum Incident
+- CF-0054 — South Atlantic Deep-Sea Creature / Trunko
+- CF-0060 — Betty & Barney Hill Abduction
+- CF-0064 — Levelland UFO Incident
+- CF-0065 — Loch Ness Monster
+
+### Required Corrections / High-Priority Flags
+
+#### CF-0054 — South Atlantic Deep-Sea Creature / Trunko — REPLACE CAPTION; REVIEW ART
+- **Major factual mismatch.** The generated caption says the event occurred in 2003, describes researchers filming a pale tentacled creature interacting with sperm whales, and calls it Trunko.
+- The published T Funk Era CF-0054 identifies Trunko as the **1924 Margate, South Africa** incident. Reports described a pale/white, fur-like mass or creature with a trunk-like appendage, reportedly associated with whales; the carcass later washed ashore.
+- The current illustration of a giant octopus-like creature fighting sperm whales does **not** closely represent the published Trunko case and should be considered for regeneration rather than merely changing the caption.
+- This is the strongest correction identified in this batch.
+
+#### The Lost Colony of Roanoke — CASE NUMBER MISMATCH
+- Uploaded filename is `CF-0100 The lost Colony of Roanoke.png`.
+- The illustration itself prints **CASE FILE #0105**.
+- Confirm the canonical T Funk Era case number and make the filename, lineup entry, and printed footer identical before lock.
+- Caption also says `CROATOAN` was carved into a tree. Historical NPS material distinguishes **CRO carved into a tree** and **CROATOAN carved into a palisade/post**. Correct the caption to preserve that distinction.
+
+#### CF-0051 — Megalodon — CAPTION CORRECTION
+- First sentence is broadly appropriate as extinct-prehistoric context, but the second sentence implies that modern sightings, sonar anomalies, and other evidence suggest Megalodon could still survive.
+- Scientific fossil-record analysis supports extinction millions of years ago and rejects present-day survival claims.
+- Reword as a mystery/legend framing: modern survival stories and alleged sightings exist, but **no verified scientific evidence demonstrates that Megalodon survives today**.
+- Illustration can remain; this is a caption correction.
+
+#### CF-0075 — RB-47 Encounter — FACTUAL/VISUAL CHECK
+- Caption should identify the aircraft more specifically as an **RB-47H electronic-reconnaissance aircraft** and emphasize the combination of visual and electronic/ELINT observations rather than presenting it simply as pilots following a disk.
+- Historical case material describes a luminous object / intense light plus electronic detections; a classic solid flying-saucer depiction is an artistic interpretation, not a documented shape established by the observations.
+- Verify aircraft configuration/markings before final lock. Preserve art only if the book accepts an explicitly artistic depiction.
+
+### Caption Verification / Wording Refinements
+
+- **CF-0084 Curse of King Tut:** retain legend framing. Avoid implying a demonstrated supernatural curse; present deaths and later curse stories as rumors/claims surrounding the 1922 discovery.
+- **CF-0090 Mongolian Death Worm:** wording appropriately uses `said to` / legends, but claims of electrical discharge, extreme heat, and venomous spray should remain clearly attributed to folklore/reports, not established zoology.
+- **CF-0096 TR-3B Black Manta:** current wording appropriately calls the aircraft rumored and notes its existence/capabilities are unconfirmed. Visual pass.
+- **CF-0045 Patterson–Gimlin Film:** concise and appropriately describes the film as controversial cryptid evidence. Visual/caption pass pending comparison to published case.
+- **CF-0046 Beast of Gévaudan:** keep historical attacks separate from speculative `mysterious creature` framing; verify wording against published case. Visual pass.
+- **CF-0053 Cash–Landrum Incident:** retain `reported` language for craft, helicopters, heat, and symptoms. Do not imply military ownership of the helicopters/craft was established unless the published case supports that wording.
+- **CF-0060 Betty & Barney Hill:** maintain attribution for missing time and abduction memories; avoid presenting hypnosis-derived/recalled material as independently established fact. Visual pass.
+- **CF-0064 Levelland:** maintain `reported` attribution for engine failures and object behavior. Visual pass.
+- **CF-0065 Loch Ness Monster:** good general mystery framing; verify `for centuries` and other chronology against published case. Visual pass.
+
+### Visual / Coloring QA
+- CF-0096 revised TR-3B is substantially cleaner and matches the reduced-detail production target.
+- CF-0090 Death Worm and CF-0065 Loch Ness have strong open coloring regions and clear dominant subjects.
+- CF-0045 Patterson–Gimlin and CF-0046 Beast of Gévaudan remain stylistically consistent with the book.
+- CF-0053, CF-0060, and CF-0064 use vehicle/UFO compositions; individually they work, but final sequencing should avoid placing similar road/UFO pages directly beside one another.
+- CF-0084 has a solid historical interior composition, but contains a large solid-black doorway/shadow area. Confirm this prints acceptably and does not violate the intended mostly-open coloring-page balance.
+- CF-0054 is visually much denser than the current reduced-detail target in addition to the factual mismatch; regeneration is preferred.
+
+### Batch 3 Status
+- **Definite regeneration candidate:** CF-0054 South Atlantic Deep-Sea Creature / Trunko
+- **Definite metadata/footer correction:** Lost Colony of Roanoke case-number mismatch
+- **Definite caption corrections:** CF-0054, Lost Colony of Roanoke, CF-0051
+- **High-priority factual/visual verification:** CF-0075 RB-47 Encounter
+- **Remaining pages:** generally usable visually, with final caption verification against their published T Funk Era Case Files still required.

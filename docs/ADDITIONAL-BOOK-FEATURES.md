@@ -192,6 +192,12 @@ Use names and related terms from creature cases in the book.
 
 Word searches should be readable, not overly dense, and should include a clear word list.
 
+**Difficulty mix for the 6 planned word searches:**
+- 2 medium
+- 4 hard
+
+Medium puzzles should establish the format with a manageable grid and fewer hidden words. Hard puzzles can use larger/denser grids, more words, and more reverse/diagonal placements while remaining fair and readable.
+
 ### Mazes
 
 Examples:

@@ -192,11 +192,22 @@ Use names and related terms from creature cases in the book.
 
 Word searches should be readable, not overly dense, and should include a clear word list.
 
-**Difficulty mix for the 6 planned word searches:**
+**Locked difficulty mix for the 6 planned word searches:**
+- 2 easy
 - 2 medium
-- 4 hard
+- 2 hard
 
-Medium puzzles should establish the format with a manageable grid and fewer hidden words. Hard puzzles can use larger/denser grids, more words, and more reverse/diagonal placements while remaining fair and readable.
+**Current production status:**
+- WS-01 — UFO Cases — MEDIUM — complete
+- WS-02 — Cryptids — MEDIUM — complete
+- WS-03 — Cryptids — HARD — complete
+- WS-04 — Historic Mysteries — EASY — complete
+- WS-05 — Conspiracies — EASY — complete
+- WS-06 — final theme — HARD — next
+
+**Locked word-search visual template:** use the clean WS-01 case-file layout as the master. Keep the simple double border, CASE FILES tab, CONFIDENTIAL stamp, centered title/instruction line, border-only letter field with no lines between individual letters, two-column word list, and T FUNK ERA CASE FILES footer. Avoid decorative illustrations that distract from solving the puzzle.
+
+Difficulty should come from word placement rather than visual clutter. Easy puzzles may use mostly forward horizontal/vertical placements but should not stack obvious answers in the first rows. Medium puzzles can add diagonals and some reverse words. Hard puzzles should use a larger or denser field, more diagonal/reverse placements, fewer obvious edge starts, and more visually camouflaged placements while remaining fair and readable.
 
 ### Mazes
 

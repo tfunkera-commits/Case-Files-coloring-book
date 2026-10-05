@@ -232,6 +232,8 @@ Mazes should visually reference the Case File setting without becoming too compl
 
 **Locked visual direction:** combine the strongest ideas from the reference examples: case-themed silhouettes/shapes where practical, plus a few simple black-line scene elements around the maze. Keep the established CASE FILES activity-page identity (clean black linework, restrained dossier styling, readable title/instructions, no grayscale-heavy decoration).
 
+**Decoration clearance rule — locked:** no decorative illustration line may overlap, touch, intrude into, or visually align so closely with the maze that it could be mistaken for a maze wall or path. Keep all themed artwork clearly outside the maze boundary with a visible white buffer. Do not place decorative lines at START, FINISH, entrances, exits, or along the outer maze edge. If any illustration line creates ambiguity about where the maze begins or where a corridor continues, remove the illustration rather than compromise puzzle readability.
+
 **Maze integrity rule — mandatory:** every final maze must be generated algorithmically rather than invented by image generation. Each maze must be validated by a pathfinding solver before approval. Save the maze ID, algorithm, grid/mask dimensions, random seed, start cell, end cell, and validated solution path so the exact puzzle can be reproduced. Decorative artwork must never alter maze walls after validation.
 
 **Generation standard:**

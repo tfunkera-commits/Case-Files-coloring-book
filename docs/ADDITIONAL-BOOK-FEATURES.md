@@ -253,7 +253,18 @@ Mazes should visually reference the Case File setting without becoming too compl
 - MZ-04 — Nimitz Tic Tac: circular radar-screen maze; guide the aircraft/radar contact toward the Tic Tac.
 - MZ-05 — Lost Colony of Roanoke: Croatoan/tree/settlement-inspired maze; navigate the abandoned colony to the carved clue.
 
-These themes can be refined during production, but the count, difficulty target, solvability requirement, deterministic generation data, and solution-key requirement are locked to prevent drift.
+**Locked file naming convention:**
+- Puzzle pages: `MZ-01_Rendlesham_Forest_Maze.png`, `MZ-02_Roswell_Maze.png`, etc.
+- Individual working solution masters: `MZ-01_Rendlesham_Forest_Solution.png`, `MZ-02_Roswell_Solution.png`, etc.
+- Final combined maze answer-key page: `Maze_Answer_Key_MZ-01_to_MZ-05.png` (or PDF at final interior-export stage).
+
+**Locked answer-key layout:** the published book should use **one dedicated maze answer-key page** in the back matter containing all five maze solutions at reduced size. Arrange the five solved mazes as clean thumbnails on a single 8.5 × 11 in page, each labeled with its maze ID and short title. The answer-key page is not a full-size repeat of the activity pages; it is a compact reference page.
+
+**Solution-page standard:** each reduced maze must use the exact same maze geometry as its puzzle page, with the verified route clearly overlaid. Preserve enough line weight and spacing that the solution remains legible when reduced. Decorative art can be simplified or omitted on the answer-key page if needed for readability.
+
+**Visual master example — locked:** use the approved **MZ-01 Rendlesham Forest final draft** as the maze-page style reference: low-key case-file layout, simple black silhouettes/basic shapes above the maze, no decorative lines entering or touching the maze, strong readable START/FINISH labels, and a clean black-and-white maze field. Use the approved **MZ-01 verified solution** as the answer-key treatment reference: exact same maze geometry with a clear solution overlay.
+
+These themes can be refined during production, but the count, difficulty target, solvability requirement, deterministic generation data, visual master, file naming, and single-page maze answer-key requirement are locked to prevent drift.
 
 ### Codebreakers
 

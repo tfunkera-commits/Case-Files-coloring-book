@@ -226,6 +226,33 @@ Other maze concepts may include:
 
 Mazes should visually reference the Case File setting without becoming too complex to solve.
 
+**Locked maze production plan: 5 mazes total.**
+
+**Audience / difficulty:** teen and adult / young-adult level. All five should be challenging, with long routes, many convincing dead ends, and no obvious children's-worksheet feel. Decorative art stays simple so puzzle difficulty comes from the maze itself.
+
+**Locked visual direction:** combine the strongest ideas from the reference examples: case-themed silhouettes/shapes where practical, plus a few simple black-line scene elements around the maze. Keep the established CASE FILES activity-page identity (clean black linework, restrained dossier styling, readable title/instructions, no grayscale-heavy decoration).
+
+**Maze integrity rule — mandatory:** every final maze must be generated algorithmically rather than invented by image generation. Each maze must be validated by a pathfinding solver before approval. Save the maze ID, algorithm, grid/mask dimensions, random seed, start cell, end cell, and validated solution path so the exact puzzle can be reproduced. Decorative artwork must never alter maze walls after validation.
+
+**Generation standard:**
+- Generate a connected maze from a deterministic random seed.
+- Prefer a perfect-maze base (one unique solution) using randomized depth-first search / recursive backtracker or another documented spanning-tree algorithm.
+- For shaped mazes, first define a binary silhouette mask, then generate only inside valid cells.
+- Validate START -> FINISH with BFS or equivalent solver.
+- Require exactly one valid solution for the final production version unless a specific maze intentionally documents otherwise.
+- Reject/regenerate mazes with routes that are too short, too straight, or dominated by one obvious corridor.
+- Export a clean puzzle page plus a matching solution-key version using the exact same maze geometry.
+- Solution key may add a route overlay; it must not redraw or reinterpret maze walls.
+
+**Planned set:**
+- MZ-01 — Rendlesham Forest: rectangular/scene maze; guide the investigator through the trees to the strange lights.
+- MZ-02 — Roswell: flying-saucer-shaped maze; navigate toward the crash-site/evidence objective.
+- MZ-03 — Beast of Bray Road: wolf/paw-inspired shaped maze; guide the motorist through the rural-road encounter.
+- MZ-04 — Nimitz Tic Tac: circular radar-screen maze; guide the aircraft/radar contact toward the Tic Tac.
+- MZ-05 — Lost Colony of Roanoke: Croatoan/tree/settlement-inspired maze; navigate the abandoned colony to the carved clue.
+
+These themes can be refined during production, but the count, difficulty target, solvability requirement, deterministic generation data, and solution-key requirement are locked to prevent drift.
+
 ### Codebreakers
 
 Example:

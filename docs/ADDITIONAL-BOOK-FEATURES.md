@@ -246,12 +246,14 @@ Mazes should visually reference the Case File setting without becoming too compl
 - Export a clean puzzle page plus a matching solution-key version using the exact same maze geometry.
 - Solution key may add a route overlay; it must not redraw or reinterpret maze walls.
 
-**Planned set:**
-- MZ-01 — Rendlesham Forest: rectangular/scene maze; guide the investigator through the trees to the strange lights.
-- MZ-02 — Roswell: flying-saucer-shaped maze; navigate toward the crash-site/evidence objective.
-- MZ-03 — Beast of Bray Road: wolf/paw-inspired shaped maze; guide the motorist through the rural-road encounter.
-- MZ-04 — Nimitz Tic Tac: circular radar-screen maze; guide the aircraft/radar contact toward the Tic Tac.
-- MZ-05 — Lost Colony of Roanoke: Croatoan/tree/settlement-inspired maze; navigate the abandoned colony to the carved clue.
+**Planned set / current status:**
+- MZ-01 — Rendlesham Forest — **complete**
+- MZ-02 — Roswell — **complete**
+- MZ-03 — Beast of Bray Road — **complete**
+- MZ-04 — Nimitz Tic Tac — **complete**
+- MZ-05 — Lost Colony of Roanoke — **next**
+
+MZ-01 through MZ-04 each have a finalized maze page and matching verified solution master. MZ-05 remains to be produced.
 
 **Locked file naming convention:**
 - Puzzle pages: `MZ-01_Rendlesham_Forest_Maze.png`, `MZ-02_Roswell_Maze.png`, etc.
@@ -270,6 +272,8 @@ Mazes should visually reference the Case File setting without becoming too compl
 5. Only then create the final maze page with those approved graphics, keeping them outside the maze clearance zone.
 6. Create the matching full-size solution page from the **same approved maze geometry**, using the same approved left/right graphics and a clear solution overlay.
 7. The final combined answer-key page is still built later from the verified solution masters.
+8. **No maze regeneration between puzzle and solution.** Once a maze is approved, freeze that exact geometry. The solution must be created by overlaying the verified path onto the same maze source. Do not use image generation to redraw, reinterpret, or regenerate maze walls for the solution page.
+9. If decorative graphics are added after maze approval, they must be composited around the frozen maze and must not alter maze walls, entrances, exits, or path geometry.
 
 This workflow is intended to reduce rework and prevent decorative art from interfering with maze readability.
 

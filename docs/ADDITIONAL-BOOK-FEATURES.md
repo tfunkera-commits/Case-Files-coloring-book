@@ -262,6 +262,17 @@ Mazes should visually reference the Case File setting without becoming too compl
 
 **Solution-page standard:** each reduced maze must use the exact same maze geometry as its puzzle page, with the verified route clearly overlaid. Preserve enough line weight and spacing that the solution remains legible when reduced. Decorative art can be simplified or omitted on the answer-key page if needed for readability.
 
+**Revised maze production workflow — locked:**
+1. **Generate the maze first with no decorative side images.** The first review draft should contain only the Case Files page framing, title/instructions, maze, START, FINISH, and footer.
+2. **START and FINISH must be visually clear and separate from maze-wall geometry.** Their labels and any arrows/markers must sit outside the maze boundary with enough white space that they cannot be mistaken for maze lines. The entrance and exit openings themselves must remain obvious.
+3. **Do not invent the left/right decorative graphics during the first maze-generation step.** Leave those image areas blank.
+4. After the maze geometry, difficulty, START/FINISH placement, and solution are approved, the user will provide or select example images for the **left** and **right** decorative positions.
+5. Only then create the final maze page with those approved graphics, keeping them outside the maze clearance zone.
+6. Create the matching full-size solution page from the **same approved maze geometry**, using the same approved left/right graphics and a clear solution overlay.
+7. The final combined answer-key page is still built later from the verified solution masters.
+
+This workflow is intended to reduce rework and prevent decorative art from interfering with maze readability.
+
 **Visual master example — locked:** use the approved **MZ-01 Rendlesham Forest final draft** as the maze-page style reference: low-key case-file layout, simple black silhouettes/basic shapes above the maze, no decorative lines entering or touching the maze, strong readable START/FINISH labels, and a clean black-and-white maze field. Use the approved **MZ-01 verified solution** as the answer-key treatment reference: exact same maze geometry with a clear solution overlay.
 
 These themes can be refined during production, but the count, difficulty target, solvability requirement, deterministic generation data, visual master, file naming, and single-page maze answer-key requirement are locked to prevent drift.

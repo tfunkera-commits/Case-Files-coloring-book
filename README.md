@@ -44,8 +44,16 @@ Proposed order:
 2. Copyright / disclaimer page
 3. Short "Welcome to the Case Files" page
 4. Brief "How This Book Works" / website connection
-5. 30 single-sided Case File coloring illustrations
-6. Final "Continue the Investigation" page with TFUNKERA.COM and QR code
+5. 30 single-sided Case File coloring illustrations, with blank or minimally branded reverse pages
+6. Case-themed activity section
+   - Word searches
+   - Mazes
+   - Classified-transmission codebreakers
+   - Other approved Case Files activities as space allows
+7. Activity answer / solution pages
+8. Final "Continue the Investigation" page with TFUNKERA.COM and QR code
+
+**Working page-count target:** approximately **100 pages total**. The goal is to add meaningful activity-book value without sacrificing the single-sided coloring format.
 
 ### Working Case Page
 **CF-#### — Case Title**  
@@ -111,7 +119,7 @@ These are **technical constraints**, not creative preferences. Recheck KDP immed
 - Interior: **Black ink on white paper**
 - Cover: **Full color**
 - Finish: **Glossy — working choice**
-- Expected final length: approximately **60–70+ pages**, depending on front/back matter and blank reverse pages
+- Expected final length: approximately **100 pages**, using 30 single-sided coloring pages plus activity pages, solutions, front matter, and back matter while keeping the coloring artwork single-sided
 - KDP classifies 8.5 x 11 as a **large trim size**.
 
 ### Supported Page Count
@@ -239,23 +247,37 @@ Possible later volumes:
 - Haunted / Paranormal Cases
 
 ## Production Plan
-1. Finalize and verify the 30-case lineup
-2. Finish / approve all 30 illustrations
-3. Lock the standard case-page template
-4. Build front matter
-5. Build single-sided interior sequence
-6. Finalize title/subtitle
-7. Design front/back cover concept
-8. Lock final interior page count
-9. Generate official KDP cover template using final specs
-10. Finish print-ready cover around that template
-11. Generate/test final website QR code
-12. Export KDP-ready interior and cover PDFs
-13. Run KDP Print Previewer
-14. Order physical proof
-15. Review and revise as necessary
-16. Create Amazon listing copy, keywords, categories, pricing, and launch checklist
-17. Publish only after proof approval
+1. ~~Finalize and verify the 30-case lineup~~ — **COMPLETE**
+2. ~~Finish all 30 coloring illustrations~~ — **COMPLETE**
+3. **QA all 30 finished coloring pages**
+   - Verify Case File number
+   - Verify title and spelling
+   - Check description/caption text
+   - Check black-line / grayscale consistency
+   - Check detail level and coloring usability
+   - Check margins and safe areas
+   - Check footer / page consistency
+4. Lock the 30-page coloring section after QA
+5. Lock the standard interior Case File page design
+6. Create the activity section
+   - UFO / Case Files word searches
+   - Case-themed mazes
+   - Classified-transmission codebreakers
+   - Solutions / answer keys
+7. Build front matter
+8. Assemble the complete single-page interior sequence at approximately 100 pages
+9. Finalize title/subtitle
+10. Design final front/back cover concept
+11. Lock final interior page count
+12. Generate official KDP cover template using final specs
+13. Finish print-ready cover around that template
+14. Generate/test final website QR code
+15. Export KDP-ready interior and cover PDFs
+16. Run KDP Print Previewer
+17. Order physical proof
+18. Review and revise as necessary
+19. Create Amazon listing copy, keywords, categories, pricing, and launch checklist
+20. Publish only after proof approval
 
 ## Quality Standard
 The finished book should feel cohesive and premium rather than generic. Case descriptions should stay concise and readable, while the art carries most of the personality and atmosphere.
@@ -291,11 +313,56 @@ The Amazon book should function as both a standalone coloring book and an entry 
 - KDP Previewer results
 
 ## Current Status
-- Project concept established.
-- 30-case book direction established.
-- Illustration production substantially advanced.
-- Working print/cover/layout strategy documented.
-- Current KDP requirements documented with official references.
-- Creative details remain intentionally editable until the physical proof is approved.
 
-**Next production priority:** lock the standard interior Case File page design and begin assembling the print interior while keeping the final page count flexible.
+### Completed
+- ✅ Project concept and T Funk Era Case Files branding established.
+- ✅ 30-case lineup established.
+- ✅ **30/30 coloring pages completed (100%).**
+- ✅ Lost Colony of Roanoke is **CF-0100** and published to the website.
+- ✅ Curse of King Tut coloring page corrected to **CF-0084**.
+- ✅ Black-line art direction established.
+- ✅ 8.5 x 11 paperback format selected.
+- ✅ Single-sided coloring-page strategy selected.
+- ✅ Full-color glossy cover direction selected as the working choice.
+- ✅ Back-cover website / QR strategy established.
+- ✅ KDP technical requirements and proof workflow documented.
+- ✅ Expanded **activity-book direction** approved.
+- ✅ Approximate **100-page total target** established.
+- ✅ Approved activity concepts include **word searches, mazes, and classified-transmission codebreakers**.
+
+### In Progress / Next
+- 🟡 **QA pass on all 30 finished coloring pages.**
+- 🟡 Verify all Case File numbers, titles, descriptions, spelling, line quality, detail level, margins, and consistency.
+- 🟡 After QA, formally **lock the coloring section**.
+- 🟡 Design the first reusable activity-page template.
+
+### Remaining
+- 🔲 Create final word-search pages and answer keys.
+- 🔲 Create final maze pages and solutions.
+- 🔲 Create final codebreaker pages and solutions.
+- 🔲 Add additional approved activities as needed to reach the target length.
+- 🔲 Build title page.
+- 🔲 Build copyright / disclaimer page.
+- 🔲 Build "Welcome to the Case Files" page.
+- 🔲 Build "How This Book Works" / website connection page.
+- 🔲 Assemble the complete approximately 100-page interior.
+- 🔲 Finalize title and subtitle.
+- 🔲 Create final front-cover artwork and typography.
+- 🔲 Finish back-cover layout with QR code and barcode clearance.
+- 🔲 Lock final page count.
+- 🔲 Generate the official KDP cover template.
+- 🔲 Finalize spine and determine spine-text eligibility.
+- 🔲 Export print-ready interior PDF.
+- 🔲 Export print-ready cover PDF.
+- 🔲 Run KDP Print Previewer and resolve warnings.
+- 🔲 Order a physical proof.
+- 🔲 Inspect print quality, margins, trimming, QR code, cover, and page order.
+- 🔲 Make any proof corrections.
+- 🔲 Create Amazon listing description, keywords, categories, pricing, and launch checklist.
+- 🔲 Publish after proof approval.
+
+## Immediate Milestone
+
+**QA 30 coloring pages → LOCK coloring section → create activity pages → assemble ~100-page interior → finish cover → KDP proof → publish.**
+
+Do **not** add additional Case File coloring pages unless the scope changes. The 30-page coloring portion is complete; production focus has moved to QA, activities, layout, and publication.

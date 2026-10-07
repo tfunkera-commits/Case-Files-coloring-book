@@ -197,13 +197,13 @@ Word searches should be readable, not overly dense, and should include a clear w
 - 2 medium
 - 2 hard
 
-**Current production status:**
+**Current production status — word searches complete (6/6):**
 - WS-01 — UFO Cases — MEDIUM — complete
 - WS-02 — Cryptids — MEDIUM — complete
 - WS-03 — Cryptids — HARD — complete
 - WS-04 — Historic Mysteries — EASY — complete
 - WS-05 — Conspiracies — EASY — complete
-- WS-06 — final theme — HARD — next
+- WS-06 — Strange Phenomena — HARD — complete — filename: `WS-06_Strange-Phenomena_HARD.png`
 
 **Locked word-search visual template:** use the clean WS-01 case-file layout as the master. Keep the simple double border, CASE FILES tab, CONFIDENTIAL stamp, centered title/instruction line, border-only letter field with no lines between individual letters, two-column word list, and T FUNK ERA CASE FILES footer. Avoid decorative illustrations that distract from solving the puzzle.
 

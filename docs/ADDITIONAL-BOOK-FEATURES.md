@@ -226,9 +226,9 @@ Other maze concepts may include:
 
 Mazes should visually reference the Case File setting without becoming too complex to solve.
 
-**Locked maze production plan: 5 mazes total.**
+**Locked maze production plan: 6 mazes total.**
 
-**Audience / difficulty:** teen and adult / young-adult level. All five should be challenging, with long routes, many convincing dead ends, and no obvious children's-worksheet feel. Decorative art stays simple so puzzle difficulty comes from the maze itself.
+**Audience / difficulty:** teen and adult / young-adult level. All six should be challenging, with long routes, many convincing dead ends, and no obvious children's-worksheet feel. Decorative art stays simple so puzzle difficulty comes from the maze itself.
 
 **Locked visual direction:** combine the strongest ideas from the reference examples: case-themed silhouettes/shapes where practical, plus a few simple black-line scene elements around the maze. Keep the established CASE FILES activity-page identity (clean black linework, restrained dossier styling, readable title/instructions, no grayscale-heavy decoration).
 
@@ -251,16 +251,17 @@ Mazes should visually reference the Case File setting without becoming too compl
 - MZ-02 — Roswell — **complete**
 - MZ-03 — Beast of Bray Road — **complete**
 - MZ-04 — Nimitz Tic Tac — **complete**
-- MZ-05 — Lost Colony of Roanoke — **next**
+- MZ-05 — Lost Colony of Roanoke — **complete**
+- MZ-06 — Mothman — **complete**
 
-MZ-01 through MZ-04 each have a finalized maze page and matching verified solution master. MZ-05 remains to be produced.
+All six maze pages are complete with matching verified solution masters. The maze-production portion of the activity section is now complete.
 
 **Locked file naming convention:**
 - Puzzle pages: `MZ-01_Rendlesham_Forest_Maze.png`, `MZ-02_Roswell_Maze.png`, etc.
 - Individual working solution masters: `MZ-01_Rendlesham_Forest_Solution.png`, `MZ-02_Roswell_Solution.png`, etc.
-- Final combined maze answer-key page: `Maze_Answer_Key_MZ-01_to_MZ-05.png` (or PDF at final interior-export stage).
+- Final combined maze answer-key page: `Maze_Answer_Key_MZ-01_to_MZ-06.png` (or PDF at final interior-export stage).
 
-**Locked answer-key layout:** the published book should use **one dedicated maze answer-key page** in the back matter containing all five maze solutions at reduced size. Arrange the five solved mazes as clean thumbnails on a single 8.5 × 11 in page, each labeled with its maze ID and short title. The answer-key page is not a full-size repeat of the activity pages; it is a compact reference page.
+**Locked answer-key layout:** the published book should use **one dedicated maze answer-key page** in the back matter containing all six maze solutions at reduced size. Arrange the six solved mazes as clean thumbnails on a single 8.5 × 11 in page, each labeled with its maze ID and short title. The answer-key page is not a full-size repeat of the activity pages; it is a compact reference page.
 
 **Solution-page standard:** each reduced maze must use the exact same maze geometry as its puzzle page, with the verified route clearly overlaid. Preserve enough line weight and spacing that the solution remains legible when reduced. Decorative art can be simplified or omitted on the answer-key page if needed for readability.
 
@@ -274,6 +275,7 @@ MZ-01 through MZ-04 each have a finalized maze page and matching verified soluti
 7. The final combined answer-key page is still built later from the verified solution masters.
 8. **No maze regeneration between puzzle and solution.** Once a maze is approved, freeze that exact geometry. The solution must be created by overlaying the verified path onto the same maze source. Do not use image generation to redraw, reinterpret, or regenerate maze walls for the solution page.
 9. If decorative graphics are added after maze approval, they must be composited around the frozen maze and must not alter maze walls, entrances, exits, or path geometry.
+10. **Final solution overlay rule — mandatory:** generate the red solution path programmatically from the saved solver path and composite it directly onto the exact final maze-page image. Never ask image generation to invent or redraw the red route. Before approval, visually inspect the full red route and confirm that it stays inside corridors and never crosses a black wall.
 
 This workflow is intended to reduce rework and prevent decorative art from interfering with maze readability.
 
@@ -351,14 +353,14 @@ A possible structure:
 | 30 Case File coloring pages | 30 |
 | Blank reverse pages for coloring pages | 30 |
 | Word searches | 6 |
-| Mazes | 5 |
+| Mazes | 6 |
 | Codebreakers | 4 |
 | Trivia / matching / identification | 6 |
 | Creative / investigator activities | 4 |
 | Test Your Colors + My Favorite Case | 2 |
 | Answer key | 5 |
 | Certificate + Website / QR finale | 2 |
-| **Approximate Total** | **101–102** |
+| **Approximate Total** | **102–103** |
 
 This is a working allocation rather than locked pagination. It should be adjusted during layout to preserve good recto/verso placement and Amazon KDP requirements.
 

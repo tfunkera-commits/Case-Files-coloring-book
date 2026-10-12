@@ -342,7 +342,7 @@ The Amazon book should function as both a standalone coloring book and an entry 
 ### Remaining
 - 🔲 QA and assemble the already designed six word-search pages and their solution keys.
 - 🔲 QA and assemble the already designed six maze pages and their solutions.
-- 🔲 Create four planned classified-transmission codebreaker pages and solutions.
+- ✅ Design all three classified-transmission cipher pages (easy / medium / hard) and one combined answer key; final CB-001 validation and print QA pending.
 - 🔲 Add additional approved activities as needed to reach the target length.
 - 🔲 Build title page.
 - 🔲 Build copyright / disclaimer page.
@@ -372,4 +372,20 @@ Do **not** add additional Case File coloring pages unless the scope changes. The
 
 
 ### Activity production checkpoint — 2026-10-12
-See [Activity Production Status](docs/ACTIVITY-PRODUCTION-STATUS.md). Six word searches and six mazes are recorded complete in the activity plan. The five **word scrambles** (different from word searches) and a one-page combined answer key have been designed in conversation, but final artwork and letter-for-letter accuracy still require proofing and asset collection. **Immediate next: word scramble QA, then first classified-transmission codebreaker.**
+See [Activity Production Status](docs/ACTIVITY-PRODUCTION-STATUS.md). Six word searches and six mazes are recorded complete in the activity plan. The five **word scrambles** (different from word searches) and a one-page combined answer key have been designed in conversation, but final artwork and letter-for-letter accuracy still require proofing and asset collection. **Cipher designs now completed (3/3 plus answer key). Next: word scramble and cipher proofing, then remaining activities and interior assembly.**
+
+
+## End-of-day checkpoint — 2026-10-12: Cipher series designed
+
+- **CB-001 — Number Cipher — Easy:** designed and user-approved. Filename `CB-001_Number_Cipher_Easy.png`.
+- **CB-002 — Caesar Cipher — Medium:** revised to use actual multiword intercepted transmissions and a +3/-3 alphabet key, rather than another single-word scramble. Corrected file: `CB-002_Caesar_Cipher_Medium.png`.
+- **CB-003 — Symbol Substitution — Hard:** designed; original AI-rendered symbol sequence had invalid answers. **Use only** the replacement `CB-003_Symbol_Substitution_Hard_CORRECTED.png`, with a consistent symbol key and valid coded messages.
+- **Combined answer key:** one-page `CB-001_to_CB-003_Cipher_Answer_Key.png` designed for all three ciphers, including the corrected CB-003.
+
+**Scope is locked at three cipher pages (easy, medium, hard), not four.** The earlier four-page estimate is superseded. **Design phase complete: 3/3 cipher worksheets + 1 answer key.**
+
+**Design language:** Minimal black ink / white background; archival folder tab and border; CASE FILES ACTIVITY DIVISION; DECODE THE TRANSMISSION; INTERCEPTED REPORT 00X; TOP SECRET stamp; typewriter-style text; cipher key or decoding instructions; true encoded multiword transmissions with writing lines; bonus transmission panel; T FUNK ERA • CASE FILES • TFUNKERA.COM footer. No comic-book decorations. Keep layout consistent while allowing cipher-specific key size.
+
+**Publication gates still open:** These rendered PNG assets were created in the chat and have not been committed into GitHub; the repo records filenames and status. Verify CB-001's original number-to-letter entries and bonus against its intended key before printing, and cross-check its portion of the combined answer key (some original generated entries may contain incorrect digits). Verify CB-002 and corrected CB-003 print layout/legibility, and ensure the answer key reflects the exact *final* pages. Check book trim, safe margins and resolution. Do not call the complete cipher section KDP-ready yet.
+
+**Next session priority:** Verify/correct cipher answer-key alignment and remaining word scramble letter errors, inventory/collect final PNGs, then plan the next distinct activity (trivia or Match the Case) or begin interior assembly; do not generate a fourth cipher by default.

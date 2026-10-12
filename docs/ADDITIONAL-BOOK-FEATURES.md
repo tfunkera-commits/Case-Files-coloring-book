@@ -394,3 +394,12 @@ The book should feel like a **Case Files Coloring & Activity Book**, not a gener
 The 30 coloring pages remain the primary identity of the product. Activities should increase perceived value, reinforce the mysteries, encourage interaction, and give readers more reasons to spend time with the book.
 
 Whenever possible, activity content should be derived from the same 30 Case Files already selected for production so that additional research and scope remain controlled.
+
+
+## Word Scrambles — Production Update (2026-10-12)
+
+**Design phase: 5 of 5 worksheets completed** for WS-001 through WS-005 (UFO Investigations; Cryptid Encounters; Unexplained Mysteries; Conspiracies & Secrets; Strange History), plus **one combined answer-key page designed**. This is separate from the already completed set of six **word searches** (WS-01 through WS-06).
+
+The simplified WS-002 style is the visual reference; the full lock is in [WORD-SCRAMBLE-STYLE-LOCK.md](WORD-SCRAMBLE-STYLE-LOCK.md). All five layouts and the one-page key were generated in the conversation, **not uploaded as PNG files to GitHub**. Letter-level validation, text proofreading, and print-quality checks remain pending. Avoid calling the series print-ready until those pass.
+
+**Next task:** proof the 5 word scrambles and combined key, then begin the first classified-transmission codebreaker (4 proposed in page budget). See [ACTIVITY-PRODUCTION-STATUS.md](ACTIVITY-PRODUCTION-STATUS.md).

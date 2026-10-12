@@ -328,18 +328,21 @@ The Amazon book should function as both a standalone coloring book and an entry 
 - ✅ KDP technical requirements and proof workflow documented.
 - ✅ Expanded **activity-book direction** approved.
 - ✅ Approximate **100-page total target** established.
-- ✅ Approved activity concepts include **word searches, mazes, and classified-transmission codebreakers**.
+- ✅ Approved activity concepts include **word searches, mazes, word scrambles, and classified-transmission codebreakers**.
+- ✅ Six word search pages designed (WS-01 to WS-06).
+- ✅ Six maze pages designed (MZ-01 to MZ-06).
+- ✅ Five word scramble worksheets designed (WS-001 to WS-005) plus one combined answer-key design; **puzzle-letter QA still required**.
 
 ### In Progress / Next
 - 🟡 **QA pass on all 30 finished coloring pages.**
 - 🟡 Verify all Case File numbers, titles, descriptions, spelling, line quality, detail level, margins, and consistency.
 - 🟡 After QA, formally **lock the coloring section**.
-- 🟡 Design the first reusable activity-page template.
+- 🟡 Word scramble visual template locked; QA the five scrambled-word sheets and the combined key before print production.
 
 ### Remaining
-- 🔲 Create final word-search pages and answer keys.
-- 🔲 Create final maze pages and solutions.
-- 🔲 Create final codebreaker pages and solutions.
+- 🔲 QA and assemble the already designed six word-search pages and their solution keys.
+- 🔲 QA and assemble the already designed six maze pages and their solutions.
+- 🔲 Create four planned classified-transmission codebreaker pages and solutions.
 - 🔲 Add additional approved activities as needed to reach the target length.
 - 🔲 Build title page.
 - 🔲 Build copyright / disclaimer page.
@@ -366,3 +369,7 @@ The Amazon book should function as both a standalone coloring book and an entry 
 **QA 30 coloring pages → LOCK coloring section → create activity pages → assemble ~100-page interior → finish cover → KDP proof → publish.**
 
 Do **not** add additional Case File coloring pages unless the scope changes. The 30-page coloring portion is complete; production focus has moved to QA, activities, layout, and publication.
+
+
+### Activity production checkpoint — 2026-10-12
+See [Activity Production Status](docs/ACTIVITY-PRODUCTION-STATUS.md). Six word searches and six mazes are recorded complete in the activity plan. The five **word scrambles** (different from word searches) and a one-page combined answer key have been designed in conversation, but final artwork and letter-for-letter accuracy still require proofing and asset collection. **Immediate next: word scramble QA, then first classified-transmission codebreaker.**

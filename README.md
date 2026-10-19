@@ -1,5 +1,8 @@
 # T Funk Era Case Files Coloring Book
 
+> **Latest checkpoint (2026-10-19):** [Interior v5, Task 16 status, and next steps](docs/PAUSE-CHECKPOINT-2026-10-19.md). The 104-page interior is assembled, but NOT publication-ready. This dated checkpoint supersedes older unfinished-assembly notes below. Project is paused at the publisher's request.
+
+
 ## Project Goal
 Create a **30-case black-line coloring book** based on creepy and mysterious Case Files as a new **income stream** under the T Funk Era brand.
 

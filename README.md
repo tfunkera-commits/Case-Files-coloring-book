@@ -1,6 +1,6 @@
 # T Funk Era Case Files Coloring Book
 
-> **Latest checkpoint (2026-10-19):** [Interior v5, Task 16 status, and next steps](docs/PAUSE-CHECKPOINT-2026-10-19.md). The 104-page interior is assembled, but NOT publication-ready. This dated checkpoint supersedes older unfinished-assembly notes below. Project is paused at the publisher's request.
+> **Latest checkpoint (2026-10-21):** [KDP Print Previewer PASSED; first physical proof ORDERED](docs/KDP-PROOF-CHECKPOINT-2026-10-21.md). The 104-page v8 interior and Task 24 cover passed KDP's digital preview with zero blocking errors; Amazon proof order placed October 21, estimated arrival Saturday October 24. **The paperback is NOT published; the $11.99 retail price is proposed, not finalized.** This checkpoint supersedes older project-status bullets below; preserve them as historical planning notes.
 
 
 ## Project Goal

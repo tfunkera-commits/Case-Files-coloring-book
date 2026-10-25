@@ -1,6 +1,6 @@
 # T Funk Era Case Files Coloring Book
 
-> **Latest checkpoint (2026-10-21):** [KDP Print Previewer PASSED; first physical proof ORDERED](docs/KDP-PROOF-CHECKPOINT-2026-10-21.md). The 104-page v8 interior and Task 24 cover passed KDP's digital preview with zero blocking errors; Amazon proof order placed October 21, estimated arrival Saturday October 24. **The paperback is NOT published; the $11.99 retail price is proposed, not finalized.** This checkpoint supersedes older project-status bullets below; preserve them as historical planning notes.
+> **Latest checkpoint (2026-10-25):** [Final KDP review and publication submission](docs/KDP-FINAL-REVIEW-2026-10-25.md). Physical proof approved October 24. Paperback submitted October 25 at **$12.99 USD**; KDP confirms **In review**. Printing cost **$2.84**, Amazon royalty rate **60%**, estimated royalty **$4.95** per US copy. Approved v8 interior and Task 24 cover preserved. **Not yet confirmed live.** This checkpoint supersedes older planning/status notes below.
 
 
 ## Project Goal
